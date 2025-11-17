@@ -1,11 +1,11 @@
-README
-Overview
+#README
+#Overview
 
 This repository contains an anonymised demonstration notebook illustrating the analytical logic behind a regain to progression workflow in football event data. The aim is to provide a clear and transparent example of how raw event information can be processed, structured, and transformed into meaningful tactical insights. All data used in the notebook is synthetic and generated within the file, and no external or proprietary information is required.
 
 The notebook follows the same principles and methodological structure that I apply in professional and academic analysis projects. It offers a simplified yet representative walkthrough of how regain actions are identified, how subsequent progressions are detected and linked, and how this information can be visualised to understand team behaviours in possession and during transitions.
 
-What the Notebook Demonstrates
+#What the Notebook Demonstrates
 
 The notebook is organised to reflect a typical football data analysis workflow and includes the following stages:
 
